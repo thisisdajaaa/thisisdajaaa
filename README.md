@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a React/Typescript developer from the Philippines. :philippines:
+I am a React/Typescript developer from the Philippines. :philippines: :flag_philippines:
 
 - 🔭 I’m currently working on a GraphQL, Typescript, React.js and Express.js clone of reddit.
 - 🌱 I’m currently learning GraphQL, React Native and trying to strengthen my CSS skills.
