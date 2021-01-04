@@ -1,5 +1,5 @@
 Hey 👋🏻,
-
+(https://simpleicons.org/icons/react.svg)
 I am a Software Engineer from Philippines 🇵🇭. I am interested in developiping software solutions with JavaScript, TypeScript, ReactJs and NodeJS.
 
 - 🔭 I’m currently working on a GraphQL, Typescript, React.js and Express.js clone of reddit.
