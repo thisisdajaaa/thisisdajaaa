@@ -21,5 +21,6 @@ I am a Software Engineer from Philippines 🇵🇭. I am interested in developip
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM&show_icons=true&include_all_commits=true)](https://github.com/DAJAKMPM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJAKMPM&layout=compact)](https://github.com/DAJAKMPM/github-readme-stats)
+
 ## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-dann-anthony-astillero-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adannanthony@gmail.com/)](https://www.linkedin.com/in/dann-anthony-astillero/) 
+[![Linkedin Badge](https://img.shields.io/badge/-dannanthony-astillero-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dannanthony-astillero/)](https://www.linkedin.com/in/dannanthony-astillero/) 
