@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
 
 ## &#x1f4c8; My GitHub Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=DAJAKMPM alt=DAJAKMPM /> </p>
+
 [![DAJAKMPM's github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM&theme=tokyonight&count_private=true)](https://github.com/DAJAKMPM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJAKMPM&layout=compact&theme=tokyonight)](https://github.com/DAJAKMPM/github-readme-stats)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=DAJAKMPM alt=DAJAKMPM /> </p>
+
