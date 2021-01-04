@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning GraphQL, React Native and trying to strengthen my CSS skills.
 - 💬 Ask me about Javascript, React, Django.
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
-- 😄 Pronouns: Pronouns: He/Him
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
 
 ## &#x1f4c8; My GitHub Stats
