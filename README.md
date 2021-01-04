@@ -8,9 +8,10 @@ I am a Software Engineer from Philippines 🇵🇭. I am interested in developip
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
 - 😄 Pronouns: Pronouns: He/Him
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
-
+[![Linkedin Badge](https://img.shields.io/badge/-Dann Anthony Astillero-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dann Anthony Astillero/)](https://www.linkedin.com/in/Dann Anthony Astillero/)
 ## &#x1f4c8; My GitHub Stats
 [![DAJAKMPM's github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM&theme=tokyonight&count_private=true)](https://github.com/DAJAKMPM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJAKMPM&layout=compact&theme=tokyonight)](https://github.com/DAJAKMPM/github-readme-stats)
 
 ## Hey 👋, This is Dann Anthony J. Astillero
 [![Gmail Badge](https://img.shields.io/badge/-adannanthony@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adannanthony@gmail.com)](mailto:adannanthony@gmail.com) 
@@ -20,3 +21,5 @@ I am a Software Engineer from Philippines 🇵🇭. I am interested in developip
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM&show_icons=true&include_all_commits=true)](https://github.com/DAJAKMPM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJAKMPM&layout=compact)](https://github.com/DAJAKMPM/github-readme-stats)
+## Hey 👋, 
+[![Linkedin Badge](https://img.shields.io/badge/-adannanthony@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adannanthony@gmail.com/)](https://www.linkedin.com/in/adannanthony@gmail.com/) 
