@@ -9,4 +9,4 @@ I am a Software Engineer from Philippines 🇵🇭. I am interested in developip
 - 😄 Pronouns: Pronouns: He/Him
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
 
-[![DAJAKMPM's github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM)](https://github.com/DAJAKMPM/github-readme-stats)
+[![DAJAKMPM's github stats](https://github-readme-stats.vercel.app/api?username=DAJAKMPM&theme=tokyonight)](https://github.com/DAJAKMPM/github-readme-stats)
