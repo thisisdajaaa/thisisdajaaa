@@ -15,7 +15,7 @@ I am a Software Engineer from Philippines 🇵🇭. I am interested in developip
 
 ## Hey 👋, This is Dann Anthony J. Astillero
 [![Gmail Badge](https://img.shields.io/badge/-adannanthony@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adannanthony@gmail.com)](mailto:adannanthony@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Dann Anthony Astillero-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dann Anthony Astillero/)](https://www.linkedin.com/in/Dann Anthony Astillero/) [![Github Badge](https://img.shields.io/badge/-DAJAKMPM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DAJAKMPM/)](https://www.github.com/DAJAKMPM/) <p align='left'>I am a Software Engineer from Philippines 🇵🇭. I am interested in developiping software solutions with JavaScript, TypeScript, ReactJs and NodeJS.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-dajakmpm-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dajakmpm/)](https://www.linkedin.com/in/dajakmpm/)  [![Github Badge](https://img.shields.io/badge/-DAJAKMPM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DAJAKMPM/)](https://www.github.com/DAJAKMPM/) <p align='left'>I am a Software Engineer from Philippines 🇵🇭. I am interested in developiping software solutions with JavaScript, TypeScript, ReactJs and NodeJS.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DAJAKMPM alt=DAJAKMPM /> </p>
 
