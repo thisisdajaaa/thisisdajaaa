@@ -6,6 +6,7 @@
 - 💬 Ask me about Javascript, React, Django.
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
+- Checkout my [Online Portfolio](https://daja-portfolio.netlify.app/)
 
 ## &#x1f4c8; My GitHub Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=DAJAKMPM alt=DAJAKMPM /> </p>
