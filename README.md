@@ -2,6 +2,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-adannanthony@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adannanthony@gmail.com)](mailto:adannanthony@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-DAJAKMPM-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DAJAKMPM/)](https://www.linkedin.com/in/DAJAKMPM/)  [![Github Badge](https://img.shields.io/badge/-DAJAKMPM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DAJAKMPM/)](https://www.github.com/DAJAKMPM/) <p align='left'>I am a Software Engineer from the Philippines 🇵🇭. I am interested in developing software solutions with JavaScript, TypeScript, ReactJs and NodeJS.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DAJAKMPM&label=Profile%20views&color=0e75b6&style=flat" alt="DAJAKMPM" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DAJAKMPM" alt="DAJAKMPM" /></a> </p>
+
 - 🔭 I’m currently working on some clones of famous websites and I am building them using React and Firebase.
 - 💬 Ask me about Javascript, React, Django.
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
