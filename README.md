@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DAJAKMPM" alt="DAJAKMPM" /></a> </p>
 
-- 🔭 I’m currently working at @Accenture
+- 🔭 I’m currently working at @Codev
 - :computer: Most used line of code `git commit -m "feat: initial commit"`
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
