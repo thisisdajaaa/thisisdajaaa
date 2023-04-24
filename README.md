@@ -10,7 +10,7 @@
 - :computer: Most used line of code `git commit -m "feat: initial commit"`
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/dann-anthony-astillero-92194416b/?originalSubdomain=ph)
 - ⚡ Fun fact: I love playing Dota2 and watching Anime xD
-- 📄 Checkout my [Online Portfolio](https://portfolio-five-mu-69.vercel.app/)
+- 📄 Checkout my [Online Portfolio](https://dajakmpm-portfolio.vercel.app/)
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
