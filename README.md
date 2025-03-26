@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-adannanthony@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adannanthony@gmail.com)](mailto:adannanthony@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-DAJAKMPM-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DAJAKMPM/)](https://www.linkedin.com/in/DAJAKMPM/)  [![Github Badge](https://img.shields.io/badge/-thisisdajaaa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thisisdajaaa/)](https://www.github.com/thisisdajaaa/) <p align='left'>Hello! I'm Dann Anthony Astillero, currently a Full Stack Developer (MERN) with a robust background in both front-end and back-end development. My journey in the tech industry has led me through various roles, where I've honed my skills in React.js, React Native, Node.js, Express.js, MongoDB, TypeScript, and more.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DAJAKMPM&label=Profile%20views&color=0e75b6&style=flat" alt="DAJAKMPM" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannastillero&label=Profile%20views&color=0e75b6&style=flat" alt="dannastillero" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisdajaaa&theme=onedark" alt="thisisdajaaa" /></a> </p>
 
