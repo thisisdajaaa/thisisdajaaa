@@ -89,25 +89,21 @@ const dann = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thisisdajaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdajaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thisisdajaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=460" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdajaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdajaaa&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=thisisdajaaa&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdajaaa&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=thisisdajaaa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
 
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thisisdajaaa/thisisdajaaa/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
