@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/dannastillero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dajakmpm-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://dota-den.vercel.app"><img src="https://img.shields.io/badge/Dota%20Den-B8392B?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=thisisdajaaa&label=Profile%20views&color=00C8FF&style=for-the-badge"/>
+<img src="https://hits.sh/github.com/thisisdajaaa.svg?style=for-the-badge&label=Profile%20views&color=00C8FF&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
