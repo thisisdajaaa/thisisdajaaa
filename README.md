@@ -89,20 +89,20 @@ const dann = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thisisdajaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=460" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thisisdajaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=340" />
+<img src="./profile/stats.svg" alt="GitHub stats" height="195"/>
+<img src="./profile/top-langs.svg" alt="Top languages" height="195"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=thisisdajaaa&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=thisisdajaaa&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisdajaaa&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisdajaaa&theme=tokyonight" alt="Contribution graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=thisisdajaaa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=thisisdajaaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
