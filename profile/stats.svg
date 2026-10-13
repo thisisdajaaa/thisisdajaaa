@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dann Anthony J. Astillero&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  : 1200, Total PRs: 148, Total Issues: 83, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 35, Total Commits  : 1218, Total PRs: 148, Total Issues: 83, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 105.85063937243808;
+        stroke-dashoffset: 105.62456875128908;
       }
     }
   
